@@ -1,11 +1,11 @@
 package com.bytelegend;
 
 public class Cat {
-    public String name;
-    public int age;
-    public String color;
-    public boolean cute;
-    
+    private String name;
+    private int age;
+    private String color;
+    private boolean cute;
+
     public String getName() {
         return name;
     }
