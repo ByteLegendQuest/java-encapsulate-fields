@@ -1,14 +1,14 @@
 package com.bytelegend;
 
 public class Dog {
-    public String name;
-    public String gender;
-    public int age;
-    public String color;
-    public String breed;
-    public int size;
-    public int weight;
-    public boolean cute;
+    private String name;
+    private String gender;
+    private int age;
+    private String color;
+    private String breed;
+    private int size;
+    private int weight;
+    private boolean cute;
 
     public String getName() {
         return name;
