@@ -1,8 +1,8 @@
 package com.bytelegend;
 
 public class Home {
-    public Cat cat;
-    public Dog dog;
+    private Cat cat;
+    private Dog dog;
 
     public Cat getCat() {
         return cat;
